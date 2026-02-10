@@ -20,7 +20,7 @@ Standard datasets failed due to light refraction, turbidity, and color shifting.
 
 ## 📊 Demonstration
 Aquí es donde debes colocar tu GIF:
-![Tuna Detection Demo](./assets/demo_counting.gif)
+![Tuna Detection Demo](./demo_counting.gif)
 
 ---
 
